@@ -1,0 +1,18 @@
+.b-goal-page__title, 
+.b-goal-page__amount, 
+.b-goal-page__target, 
+.b-goal-page__date,
+#goal-title, 
+#goal-amount {
+    font-family: 'CyrillicGoth', sans-serif !important;
+}
+
+/* Для Streamlabs / Rutony */
+.fundraising-text, 
+.progress-bar-text, 
+.bar-text, 
+.text,
+#title, 
+#amount {
+    font-family: 'CyrillicGoth', sans-serif !important;
+}
